@@ -8,8 +8,8 @@ app.use(express.json());
 
 // Replace with your Tuma credentials from https://merchant.tuma.co.ke
 const TUMA_API_URL = 'https://api.tuma.co.ke';
-const BUSINESS_EMAIL = 'your-business-email@example.com';
-const API_KEY = 'your-tuma-api-key';
+const BUSINESS_EMAIL = 'davidwambua182005@gmail.com';
+const API_KEY = 'tuma_9378f6fd3435a73eeae79fad7252d4f3e8f0ac2041e3f105ac0412b8ec94cd7a_1778485040';
 
 // Get JWT Token
 async function getToken() {
